@@ -8,5 +8,4 @@ public class StuHw17 {
 	static StuHw17 getInstance() {
 		return singleton;
 	}
-
 }
